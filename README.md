@@ -136,8 +136,15 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/a49b891b-432a-4b8a-a9fb-27d2075d56e8)
 
+
+
 ![image](https://github.com/user-attachments/assets/aa78eb11-401a-4317-b19f-9bae782abf89)
 
+
+
 ![image](https://github.com/user-attachments/assets/a3be3259-0853-4743-b2ef-a1e20b97034e)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/51b8cbed-0d48-4579-8604-791fc71786eb)
